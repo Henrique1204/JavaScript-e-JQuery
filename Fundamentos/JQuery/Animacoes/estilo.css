@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    margin: 0;
+    color: #F8F8F8;
+    background-color: #151515;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: currentColor;
+}
